@@ -73,10 +73,14 @@ width: 20rem;
 text-align: center;
 }
 
-.intro-section__post p {
-font-weight: bold;
-font-size: 1.3rem;
-line-height: 48px;
+.create-post {
+  font-weight: bold;
+font-size: 1.1rem;
+text-align: center;
+color: #FFFFFF;
+background-color:  #6D9BF1;
+border: 1px solid #6D9BF1;
+padding: .5rem;
 }
 
 @media screen and (max-width: 520px) {
@@ -129,7 +133,7 @@ line-height: 48px;
 
 #footer {
   background-color: #6D9BF1; 
-  margin-top: 2rem;  
+  margin-top: 5rem;  
   padding-top: 10px;
   /* height: 300px; */
   width: 100%;
